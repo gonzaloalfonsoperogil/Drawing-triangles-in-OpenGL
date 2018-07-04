@@ -1,0 +1,15 @@
+﻿  glew.c
+  main.cpp
+  Buffer.cpp
+c:\users\user\desktop\ugine3d\drawing-triangles-in-opengl\project\buffer.cpp(30): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Camera.cpp
+  Entity.cpp
+  Mesh.cpp
+  Model.cpp
+  Shader.cpp
+  State.cpp
+  World.cpp
+  Generating Code...
+c:\users\user\desktop\ugine3d\drawing-triangles-in-opengl\src\main.cpp(64): warning C4715: 'Init': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ugine3d.vcxproj -> C:\Users\User\Desktop\ugine3d\Drawing-triangles-in-OpenGL\project\x64\Debug\ugine3d.exe
